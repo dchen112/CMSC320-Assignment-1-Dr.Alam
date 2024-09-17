@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Developers use git as a version control tool. Using git allows developers to maintain multiple branches, which have different
+variations of the same code. With git, developers can collaborate with others more easily because they can work simultaneously on the code
+without overriding the changes of other developers. Additionally, developers can use git to restore old versions of code in the case where
+code changes result in new bugs and errors.
