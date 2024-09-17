@@ -17,3 +17,9 @@ Answer: Merging and rebasing are similar in the fact that they are both used to 
 used in the same situations, but the way that they work is different. Rebase rewrites the commit history to make it appear as though the
 changes in the branch of the new feature start at the tip of the target branch. This means that there is no merge commit that dirties the
 commit history. In the case of merge, the extra merge commit still appears, and the branching history is preserved.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: During this course, I hope to improve my comfortability with large data sets and databases. In the past, I have worked briefly with
+big data using simple SQL commands. By the end of this class, I want to be more proficient with language and overall capable of applying my
+knowledge to real world projects.
